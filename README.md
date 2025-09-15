@@ -2,7 +2,6 @@
 Soy estiudiante del séptimo semestre de la carrera en Ingeniería en Mecatrónica en la Universidad Tecnológica de la Mixteca. Tengo conocimienetos sobre programción estructurada en C+, programación orientada a objetos en Java, programación en arduino y estoy aprendiendo a programar en el lenguaje Phyton y a trabajar con el microcontrolador ATMega328.
 También tengo conociemientos sobre modelado en 3D en Solidworks y en manufactura, ya que se generar piezas para maquinado en CNC (Control Numérico por Computadora), cortadora de plasma, de igual forma se trabajar en el torno y fresadora vertical. 
 
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **MaxGarcia948/MaxGarcia948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
